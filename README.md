@@ -1,6 +1,8 @@
 # 
 
 # 1. High-Value Customers with Multiple Products
+---
+
 # Approach:
 •	The goal was to identify customers with a funded savings and investment plan.
 
@@ -38,6 +40,7 @@ DISTINCT
 .
 
 # 2. Transaction Frequency Analysis
+---
 # Approach:
 •	The task was to categorize customers based on their transaction frequency.
 
@@ -61,7 +64,7 @@ to group transactions by month, which may vary depending on the SQL dialect.
 
 
 # 3. Account Inactivity Alert
-
+---
 # Approach:
 
 •	The goal was to find accounts with no inflow transactions for over a year.
@@ -85,7 +88,7 @@ to group transactions by month, which may vary depending on the SQL dialect.
 
 
 # 4. Customer Lifetime Value (CLV) Estimation
-
+---
 
 # Approach:
 
